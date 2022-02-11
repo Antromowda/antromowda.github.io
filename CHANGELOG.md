@@ -8,4 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2022-02-10
 ### Added
-- This CHANGELOG.md file to help me keep track of my project changes and develop a good habit of keeping a changelog.
+- Started this CHANGELOG.md file to help me keep track of my project changes and develop a good habit of keeping a changelog.
+- Started a CRA project and cleaned up some files i won't be using.
+- Defined some default styles for my project.
