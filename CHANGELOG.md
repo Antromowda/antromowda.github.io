@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2022-02-28
+
+### Added
+- Finished prototyping.
 ## [0.0.1] - 2022-02-10
 ### Added
 - Started this CHANGELOG.md file to help me keep track of my project changes and develop a good habit of keeping a changelog.
