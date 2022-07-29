@@ -65,6 +65,7 @@ h1::before {
 
 .about-info img {
   width: 3rem;
+  margin-top: 0.5em;
 }
 
 .about-info a {
